@@ -7,7 +7,7 @@ package com.asymptoticAnalysis.excercises;
  * @author Hagos B. Haile
  *
  */
-public class GFG {
+public class PascalsTriangle {
 
 	/**
 	 * @param args
