@@ -2,6 +2,10 @@ package com.asymptoticAnalysis.excercises;
 
 //An efficient Java program to randomly
 //select k items from a stream of items
+/*
+ * 
+ * Hagos B. Haile
+ */
 import java.util.Arrays;
 import java.util.Random;
 
